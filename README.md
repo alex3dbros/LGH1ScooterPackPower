@@ -1,5 +1,5 @@
 # LGH1ScooterPackPower
-A way to wake up the e-scooter pack sold by Jehu Garcia
+A way to wake up the e-scooter pack sold by Jehu Garcia https://www.youtube.com/watch?v=E87EcLeqIX0
 
 
 Works with STM32F103 board
